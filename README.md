@@ -4,7 +4,7 @@ Un cours de latin bâti sur des locutions authentiques — maximes, proverbes,
 citations — où chaque phrase sert à la fois d’exemple grammatical et de porte
 d’entrée culturelle.
 
-**L’application : [à compléter avec l’adresse GitHub Pages]**
+**L’application : https://romadelenda.github.io/latin/**
 
 ## Le principe
 
